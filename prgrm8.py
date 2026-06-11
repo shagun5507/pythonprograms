@@ -1,0 +1,3 @@
+print("Intel corei3")
+
+
